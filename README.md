@@ -108,7 +108,7 @@ r2 = r2_score(y_test, y_pred)
 
 print(f"Mean Squared Error: {mse}")
 print(f"R-squared: {r2}")
-
+```python
 ## Conclusion
 
 Linear regression is a fundamental technique that lays the groundwork for more advanced machine learning algorithms. Its simplicity, interpretability, and effectiveness make it a go-to method for beginners and experts alike. By understanding its basics, assumptions, and applications, you can unlock its full potential to make data-driven decisions.
