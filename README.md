@@ -77,6 +77,13 @@ Linear regression is widely used in various domains, including:
 - Assumes a linear relationship between variables.  
 - Struggles with multicollinearity (when independent variables are highly correlated).  
 
+
+## Conclusion
+
+Linear regression is a fundamental technique that lays the groundwork for more advanced machine learning algorithms. Its simplicity, interpretability, and effectiveness make it a go-to method for beginners and experts alike. By understanding its basics, assumptions, and applications, you can unlock its full potential to make data-driven decisions.
+
+Start experimenting with your own datasets, and you’ll see how this powerful tool can help you uncover insights and make accurate predictions!
+
 ## Implementing Linear Regression in Python
 
 Here’s a simple example using Python’s scikit-learn:
@@ -108,9 +115,3 @@ r2 = r2_score(y_test, y_pred)
 
 print(f"Mean Squared Error: {mse}")
 print(f"R-squared: {r2}")
-```python
-## Conclusion
-
-Linear regression is a fundamental technique that lays the groundwork for more advanced machine learning algorithms. Its simplicity, interpretability, and effectiveness make it a go-to method for beginners and experts alike. By understanding its basics, assumptions, and applications, you can unlock its full potential to make data-driven decisions.
-
-Start experimenting with your own datasets, and you’ll see how this powerful tool can help you uncover insights and make accurate predictions!
